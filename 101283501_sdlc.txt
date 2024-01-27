@@ -1,1 +1,2 @@
 # Information about the importance of DevOps engineering:
+# DevOps engineering speeds up the software development cycle across the board and reduces redundancies by combining the expertise of two technologically proficient teams.
