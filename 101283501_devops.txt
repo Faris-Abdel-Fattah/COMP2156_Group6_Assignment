@@ -1,1 +1,2 @@
 # Information about the COMP2156 DevOps course:
+# COMP2156 is about software development and IT operations coming together to enhance the creation, maintenance, and performance of applications.
