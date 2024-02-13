@@ -1,0 +1,3 @@
+# Information about the COMP2156 DevOps course:
+# COMP2156 is about software development and IT operations coming together to enhance the creation, maintenance, and performance of applications.
+# This course is taught by the amazing and talented Pritesh Patel (who may award me bonus points for this...?).
