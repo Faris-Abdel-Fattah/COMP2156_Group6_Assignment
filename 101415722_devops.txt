@@ -1,1 +1,2 @@
-
+# COMP 2156 at George Brown College teaches DevOps, which is about teamwork between software developers and IT operations members.
+# It focuses on how to work together smoothly to build and manage software. In this course, we learn the basics of DevOps and how to use it in today's software world and mainly in Github.
