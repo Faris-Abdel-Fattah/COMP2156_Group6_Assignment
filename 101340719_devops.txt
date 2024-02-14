@@ -1,0 +1,4 @@
+# Information about the COMP2156 DevOps course:
+
+#The course focuses on practical use of DevOps tools and practices for CI, CD, and automated testing, preparing students for real-world applications.
+#It highlights the importance of collaboration and communication between development and operations, promoting a culture that speeds up problem-solving and enhances product quality.
